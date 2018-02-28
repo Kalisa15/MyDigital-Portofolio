@@ -1,0 +1,13 @@
+body{
+	font-family: sans-serif;
+}
+
+.hug{
+	width: 450px;
+	background: rgba(0,0,0,0.4);
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	margin-top: 5%;
+	color: white;
+}
